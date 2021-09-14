@@ -29,7 +29,7 @@ There are 3 types of generalised activities. These are :
 
 #### 1. General Activities :
 
-These activities are the most general, almost every instagram user*(not just bloggers)* does these activities. These are :
+These activities are the most general, almost every instagram user(*not just bloggers*) does these activities. These are :
 
 1. To get the first *n* search handles according to an input query(hashtags and locations will be excluded from this result; for example, if the query is *"food"* then then *#food* will be excluded).
 2. To follow an insta handle, given that the **handle input is correct** and the **case-sensitivity** is also correct.
