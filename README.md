@@ -10,7 +10,7 @@ The problem being that the human speed to achieve the same tasks will take a lot
 
 ### 2.1) Libraries used :
 
-* selenium(need to be installed excplicitly if not installed. In any command line type the command **pip install selenium**)
+* selenium(need to be installed excplicitely if not installed. In any command line type the command **pip install selenium**)
 * numpy
 * pandas
 * time
