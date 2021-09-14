@@ -58,7 +58,7 @@ These blogging activities are again categorised in 2 more categories. These are 
 These activities will guve a visualization of the account related data. There are two functionalities in these activities. These are :
 
 1. View current number of followers and following.
-2. To take a hashtag query and then traverse through n posts and find the top k hashtags around it. Then the pie chart of these k hashtags will be showed and at last the user gets to update these hashtags in a local file name **hashtags_logs.csv** if the user wants to update it. For example, if we want to extract top 3**(k)** hashtags around *#food***(hashtag query)** by traversing 10**(n)** recent posts, then the output will be a pie chart of those 3 hashtags that appeared in most recent 10 posts, at last the user will be asked to update their hashtags log file with this result for future reference.
+2. To take a hashtag query and then traverse through n posts and find the top k hashtags around it. Then the pie chart of these k hashtags will be showed and at last the user gets to update these hashtags in a local file name **hashtags_logs.csv** if the user wants to update it. For example, if we want to extract top 3 **(k)** hashtags around *#food* **(hashtag query)** by traversing 10 **(n)** recent posts, then the output will be a pie chart of those 3 hashtags that appeared in most recent 10 posts, at last the user will be asked to update their hashtags log file with this result for future reference.
 
 ### 2.4) Code Execution :
 
